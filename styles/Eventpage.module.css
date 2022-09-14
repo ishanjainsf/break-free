@@ -1,0 +1,146 @@
+.eventBodyWrapper{
+    position: relative;
+    width: 100%;
+    margin-top: 25px;
+    height: 85%;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding: 5;
+    margin-left: 15px;
+}
+
+.filterWrapper{
+    position: relative;
+    width: 30%;
+    height: 100%;
+    margin-right: 25px;
+}
+
+.eventWrapper{
+    position: relative;
+    width: 70%;
+    height: fit-content;
+    margin-right: 25px;
+    position: relative;
+    padding: 15px;
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.filterHeader{
+    position: relative;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    height: fit-content;
+    padding: 5px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.filters{
+    position: relative;
+    margin-top: 15px;
+}
+
+.filterTabWrapper{
+    margin-top: 10px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.filterTabs{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    padding: 2px;
+    padding-right: 7px;
+    padding-left: 7px;
+    border-radius: 15px;
+    border: 1px solid black;
+    color: black;
+    font-size: 10px;
+    margin-right: 7.5px;
+    margin-bottom: 5px;
+}
+
+.eventFilters{
+    position: relative;
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+    overflow: hidden;
+    overflow-x: scroll;
+    cursor: pointer;
+}
+
+.eventFilterTabs{
+    /* position: relative; */
+    padding: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    min-width: 80px;
+    border-radius: 15px;
+    border: 1px solid #CACACA;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    background-color: #F2F2F2;
+    color: #686868;
+}
+
+.allEventCardsWrapper{
+    margin-top: 35px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+.cards{
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+
+
+.loadMoreBtn{
+    margin-top: 25px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+.loadMore{
+    border: 1px solid #D3C711;
+    width: fit-content;
+    padding: 2px;
+    color: black;
+    border-radius: 45px;
+    font-size: 12px;
+    padding-right: 5px;
+    padding-left: 5px; 
+    cursor: pointer;
+}
+
+.featuredEvents{
+    position: relaive;
+    width:"100%";
+    background-color: "white";
+    border: 1px solid #DBDBDB;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 25px;
+}

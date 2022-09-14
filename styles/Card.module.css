@@ -1,0 +1,49 @@
+.cardWrapper{
+    position: relative;
+    width: 294px;
+    height: 349px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid #35352F;
+    padding: 7px;
+}
+
+
+.cardHeading{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.cardInfo{
+    margin-top: 5px;
+    font-size: 12px;
+    color: #6F6F6F;
+}
+
+.bookServiceBtn{
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.bookingPrice{
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.bookNowBtn{
+    background-color: #FFFF00;
+    font-size: 12px;
+    font-weight: 800;
+    border: none;
+    color:black;
+    padding: 4px;
+    border-radius: 5px;
+    margin-top:"auto";
+    margin-bottom:"auto";
+}
+

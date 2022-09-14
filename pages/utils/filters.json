@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "Sort By": ["Price : Low to high", "Price : High to Low"],
+      "Location": ["Bangalore", "Hyderabad", "Gurgaon", "Mumbai"],
+      "Day": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "Filter by date range": [
+        "Today",
+        "Tomorrow",
+        "This Week",
+        "This Month",
+        "This year",
+        "Previous Year"
+      ]
+    }
+  ]
+}
